@@ -101,6 +101,35 @@ FROM user
 -- | LT Supplies(USA)                          |
 -- +-------------------------------------------+
 
-
-
+-- 数据处理函数
+SELECT name, Upper(name) AS name_uppercase
+  FROM user;
   
+--- String function
+-- Left(str, len)           | 返回最左边len长度的子串
+-- Right(str, len)          | 返回最右边len长度的子串
+-- Length(str)              | 返回字符串存储长度
+-- Lower(str)               | 全部转换为小写
+-- Upper(str)               | 全部转换为大写
+-- Reverse(str)             | 字符串倒序
+  
+--- date function 
+SELECT id, order_num FROM orders WHERE Date(order_date) = '2018-09-01';
+SELECT id, order_num FROM orders WHERE Year(order_date) = 2005 AND Month(order_date) = 9;
+-- AddDate(expr, days)    | add time values (intervals) to a date value
+-- AddTime(expr1, expr2)  | add time
+-- Now()                  | return datetime
+-- CurDate()              | return current date
+-- CurTime()              | return current time
+-- Date(expr)             | return date part of expr
+-- Time(expr)             | return time part of expr
+-- Year(expr)             | return year part of expr
+-- Month(expr)            | return month part of expr
+-- Day(expr)              | return day part of expr
+-- Hour(expr)             | return hour part of expr
+-- Minute(expr)           | return minute part of expr
+-- Second(expr)           | return second part of expr
+-- DayOfWeek(expr)        | return day of expr
+-- DateDiff(expr1, expr2) | return expr1 - expr2
+………………
+
