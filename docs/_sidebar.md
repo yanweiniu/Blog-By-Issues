@@ -1,5 +1,3 @@
-* Introduction
-    
-* **[简介](README.md)**
+* -    **[我的简历](resume.md)**
 * 
-* **[简历](/book/resume.md)**
+* -    **[关于我](README.md)**
