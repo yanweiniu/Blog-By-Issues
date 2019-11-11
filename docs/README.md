@@ -4,7 +4,7 @@
 ## 关于博客
 我大一开始写博客，最初是在博客园上，地址是[https://www.cnblogs.com/littlewriter](https://www.cnblogs.com/littlewriter)
 后来陆续在简书、个人搭建的hexo博客、以及公众号上写作。
-工作之后自己的学习观念发生了变化，更偏向于系统、深入的写作，就像写书一样去写博客，所以我把历史文章都移到了语雀上，建立对应的专栏、文档库和学习笔记。地址是[http://www.yuque.com/maps](http://www.yuque.com/maps)
+工作之后自己的学习观念发生了变化，更偏向于系统、深入的写作，计划像写书一样去写博客。在阿里工作的几位同学向我推荐了语雀，所以我把历史文章都移到了语雀上，建立对应的专栏、文档库和学习笔记，开始自己的新的博客之旅，以后估计不会再频繁换了。语雀地址是[http://www.yuque.com/maps](http://www.yuque.com/maps)
 
 下面讲讲我的一些经历：
 
