@@ -1,5 +1,5 @@
 ## 关于我
-我的名字是燕尾，并不是花名，就是真实名字，90后。
+我的名字是燕尾，并不是花名，就是真实名字，95年的, 老家河南周口。
 
 ## 关于博客
 我大一开始写博客，最初是在博客园上，地址是[https://www.cnblogs.com/littlewriter](https://www.cnblogs.com/littlewriter)
